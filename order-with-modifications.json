@@ -1,0 +1,49 @@
+{
+    "order_id": "xyz123",
+    "restaurant_name": "Tasty Bites",
+    "restaurant_address": "123 Main St, Anytown, USA",
+    "restaurant_phone": "+1 (555) 123-4567",
+    "customer_name": "Alice Smith",
+    "customer_address": "789 Oak St, Anytown, USA",
+    "customer_phone": "+1 (555) 111-2222",
+    "items": [
+        {
+            "id": "cd31b91c-d7fb-4e6e-b8ef-c13e63b68d2d",
+            "name": "Classic Burger",
+            "quantity": 1,
+            "price_per_item": 12.99,
+            "subtotal": 12.99,
+            "modifications": [
+                {
+                    "name": "Extra Cheese",
+                    "price": 1.00
+                },
+                {
+                    "name": "Bacon",
+                    "price": 2.00
+                }
+            ]
+        },
+        {
+            "id": "f1283a54-5f7e-4d40-af4e-8b1ef7d6eb80",
+            "name": "Chocolate Lava Cake",
+            "quantity": 2,
+            "price_per_item": 8.99,
+            "subtotal": 17.98,
+            "modifications": [
+                {
+                    "name": "Extra Ice Cream Scoop",
+                    "price": 1.00
+                },
+                {
+                    "name": "Caramel Drizzle",
+                    "price": 0.75
+                }
+            ]
+        }
+    ],
+    "total": 30.97,
+    "order_time": "2024-04-17T18:45:00",
+    "delivery_time": "2024-04-17T19:30:00",
+    "status": "Pending"
+}
