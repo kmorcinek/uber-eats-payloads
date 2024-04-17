@@ -6,13 +6,14 @@ IntegrationTest(Case case)
     SetupKitchenResponse();
     SetupAggregatorResponse();
 
-    TriggerMenuUpdate(case); // case.
+    TriggerMenuUpdate(case); // case.MENU_PAYLOAD        
 
-    AssertMenuToAggregator(case); // case.
+    AssertMenuToAggregator(case); // case.AGGREGATOR_MENU
 
-    TriggerIncomingOrder(case); // case.
+    TriggerIncomingOrder(case); // case.AGGREGATOR_ORDER
 
-    AssertOrderCreatedInKitchen(case); // case.
+    AssertOrderCreatedInKitchen(case); // case.CREATE_KITCHEN_ORDER
 }
 
-IntegrationTest(Case.);
+IntegrationTest(Case.SIMPLE_ITEMS);
+IntegrationTest(Case.ITEM_WITH_MODIFICATIONS);

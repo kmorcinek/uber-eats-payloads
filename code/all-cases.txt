@@ -1,0 +1,6 @@
+CASE                        MENU_PAYLOAD        AGGREGATOR_MENU     AGGREGATOR_ORDER    CREATE_KITCHEN_ORDER
+---------------------------------------------------------------------------------------------------------
+SIMPLE_ITEMS                "file_path.json"    "file_path.json"    "file_path.json"    "file_path.json"
+ITEM_WITH_MODIFICATIONS     "file_path.json"    "file_path.json"    "file_path.json"    "file_path.json"
+COMBO                       "file_path.json"    "file_path.json"    "file_path.json"    "file_path.json"
+FULL_MENU                   "file_path.json"    "file_path.json"    "file_path.json"    "file_path.json"
