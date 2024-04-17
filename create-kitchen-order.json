@@ -1,0 +1,27 @@
+{
+    "order_id": "xyz123",
+    "kitchenId": "f1283a54-5f7e-4d40-af4e-8b1ef7d6eb80",
+    "customer_name": "Alice Smith",
+    "customer_address": "789 Oak St, Anytown, USA",
+    "customer_phone": "+1 (555) 111-2222",
+    "items": [
+        {
+            "id": "cd31b91c-d7fb-4e6e-b8ef-c13e63b68d2d",
+            "name": "Classic Burger",
+            "quantity": 1
+        },
+        {
+            "id": "f1283a54-5f7e-4d40-af4e-8b1ef7d6eb80",
+            "name": "Chocolate Lava Cake",
+            "quantity": 2,
+            "modifications": [
+                {
+                    "name": "Caramel Drizzle"
+                }
+            ]
+        }
+    ],
+    "order_time": "2024-04-17T18:45:00",
+    "status": "Pending",
+    "priority": "High"
+}

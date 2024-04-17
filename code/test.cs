@@ -17,3 +17,7 @@ IntegrationTest(Case case)
 
 IntegrationTest(Case.SIMPLE_ITEMS);
 IntegrationTest(Case.ITEM_WITH_MODIFICATIONS);
+
+// other cases:
+// SIMPLE_ORDER_WITH_OWN_DELIVERY,
+// SIMPLE_ORDER_WITH_AGGREGATOR_DELIVERY

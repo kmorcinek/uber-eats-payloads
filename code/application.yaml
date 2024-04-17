@@ -36,5 +36,5 @@ integrations:
         aggregatorId: e8bf9a51-615e-43e8-85e7-92ac67b06648
         enabled: false
 
-      // 200 kitchens x 30 brands
+      // 200 kitchens x 20 brands
       // readonly
