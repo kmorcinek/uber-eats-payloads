@@ -7,11 +7,13 @@
             "category": "Appetizers",
             "items": [
                 {
+                    "id": "f5d3ffef-2865-4de1-97a2-6ae4a297c86e",
                     "name": "Mozzarella Sticks",
                     "description": "Crispy breaded mozzarella sticks served with marinara sauce.",
                     "price": 8.99
                 },
                 {
+                    "id": "e42b4d3b-0708-4f1c-a928-33b0a86ac0e4",
                     "name": "Chicken Wings",
                     "description": "Choice of buffalo, BBQ, or garlic parmesan sauce. Served with celery sticks and ranch dressing.",
                     "price": 10.99
@@ -22,11 +24,13 @@
             "category": "Entrees",
             "items": [
                 {
+                    "id": "cd31b91c-d7fb-4e6e-b8ef-c13e63b68d2d",
                     "name": "Classic Burger",
                     "description": "Juicy beef patty topped with lettuce, tomato, onion, and pickles. Served with fries.",
                     "price": 12.99
                 },
                 {
+                    "id": "c4f65b7b-6c48-4f5e-b011-9279df7c09b9",
                     "name": "Grilled Salmon",
                     "description": "Fresh salmon fillet grilled to perfection and served with seasonal vegetables and rice.",
                     "price": 16.99
@@ -37,11 +41,13 @@
             "category": "Desserts",
             "items": [
                 {
+                    "id": "b07c81e8-45d0-4c90-bc17-c67608a25c1b",
                     "name": "New York Cheesecake",
                     "description": "Creamy cheesecake on a graham cracker crust. Topped with strawberry compote.",
                     "price": 7.99
                 },
                 {
+                    "id": "f1283a54-5f7e-4d40-af4e-8b1ef7d6eb80",
                     "name": "Chocolate Lava Cake",
                     "description": "Warm chocolate cake with a molten chocolate center. Served with vanilla ice cream.",
                     "price": 8.99
