@@ -1,0 +1,52 @@
+{
+    "restaurant_name": "Tasty Bites",
+    "restaurant_address": "123 Main St, Anytown, USA",
+    "restaurant_phone": "+1 (555) 123-4567",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "name": "Mozzarella Sticks",
+                    "description": "Crispy breaded mozzarella sticks served with marinara sauce.",
+                    "price": 8.99
+                },
+                {
+                    "name": "Chicken Wings",
+                    "description": "Choice of buffalo, BBQ, or garlic parmesan sauce. Served with celery sticks and ranch dressing.",
+                    "price": 10.99
+                }
+            ]
+        },
+        {
+            "category": "Entrees",
+            "items": [
+                {
+                    "name": "Classic Burger",
+                    "description": "Juicy beef patty topped with lettuce, tomato, onion, and pickles. Served with fries.",
+                    "price": 12.99
+                },
+                {
+                    "name": "Grilled Salmon",
+                    "description": "Fresh salmon fillet grilled to perfection and served with seasonal vegetables and rice.",
+                    "price": 16.99
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "name": "New York Cheesecake",
+                    "description": "Creamy cheesecake on a graham cracker crust. Topped with strawberry compote.",
+                    "price": 7.99
+                },
+                {
+                    "name": "Chocolate Lava Cake",
+                    "description": "Warm chocolate cake with a molten chocolate center. Served with vanilla ice cream.",
+                    "price": 8.99
+                }
+            ]
+        }
+    ]
+}
