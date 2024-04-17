@@ -34,3 +34,7 @@ integrations:
         brandId: 263d59b9-22bb-457e-af6b-89d7079d167b
         hubId: 942f5b1d-8f3d-46f5-a2f9-5a7091f004b4
         aggregatorId: e8bf9a51-615e-43e8-85e7-92ac67b06648
+        enabled: false
+
+      // 200 kitchens x 30 brands
+      // readonly

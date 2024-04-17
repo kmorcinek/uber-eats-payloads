@@ -1,0 +1,25 @@
+{
+    "restaurant_id": "cd31b91c-d7fb-4e6e-b8ef-c13e63b68d2d",
+    "unavailable_items": [
+        {
+            "id": "cd31b91c-d7fb-4e6e-b8ef-c13e63b68d2d",
+            "name": "Classic Burger"
+        },
+        {
+            "id": "f1283a54-5f7e-4d40-af4e-8b1ef7d6eb80",
+            "name": "Chocolate Lava Cake"
+        },
+        {
+            "id": "cd31b91c-d7fb-4e6e-b8ef-c13e63b68d2d",
+            "name": "Classic Burger",
+            "until": "2024-04-17T20:00:00"
+        },
+        {
+            "id": "f1283a54-5f7e-4d40-af4e-8b1ef7d6eb80",
+            "name": "Chocolate Lava Cake",
+            "until": "2024-04-17T20:00:00"
+        }
+    ],
+    "unavailability_reason": "Temporary unavailability due to maintenance",
+    "timestamp": "2024-04-17T20:00:00"
+}
