@@ -1,4 +1,4 @@
-test(Case case)
+IntegrationTest(Case case)
 {
     ArrangeConfig();
     ArrangeKitchenAndBrand();
@@ -14,3 +14,5 @@ test(Case case)
 
     AssertOrderCreatedInKitchen(case); // case.
 }
+
+IntegrationTest(Case.);

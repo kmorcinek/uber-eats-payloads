@@ -1,0 +1,36 @@
+integrations:
+  uber-east:
+    settings: //
+
+    items:
+      // Kitchen DIFC
+      // Haagen Dazs
+      - kitchenId: 123e4567-e89b-12d3-a456-426614174000
+        brandId: a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
+        hubId: f47ac10b-58cc-4372-a567-0e02b2c3d479
+        aggregatorId: 6f39ac22-7a4e-4a4c-bdbe-ccae5a31602b
+      // Burger King
+      - kitchenId: 1bfc6ba6-5f0c-40e2-b3bb-7e5b60dbf7ef
+        brandId: 3c8e817b-65d9-40e4-b2f6-ecf68a4854c8
+        hubId: c71ee4a6-b83a-4a7e-8b69-8c7153e28a7e
+        aggregatorId: 4f22fcdf-dcf0-4628-9857-0dd9ad4b8a7b
+      - kitchenId: b97a829e-79fd-48d6-83a7-57e0b1fd49f7
+        brandId: 263d59b9-22bb-457e-af6b-89d7079d167b
+        hubId: 942f5b1d-8f3d-46f5-a2f9-5a7091f004b4
+        aggregatorId: e8bf9a51-615e-43e8-85e7-92ac67b06648
+
+      // Kitchen Dubai Marina
+      // Haagen Dazs
+      - kitchenId: 123e4567-e89b-12d3-a456-426614174000
+        brandId: a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
+        hubId: f47ac10b-58cc-4372-a567-0e02b2c3d479
+        aggregatorId: 6f39ac22-7a4e-4a4c-bdbe-ccae5a31602b
+      // Burger King
+      - kitchenId: 1bfc6ba6-5f0c-40e2-b3bb-7e5b60dbf7ef
+        brandId: 3c8e817b-65d9-40e4-b2f6-ecf68a4854c8
+        hubId: c71ee4a6-b83a-4a7e-8b69-8c7153e28a7e
+        aggregatorId: 4f22fcdf-dcf0-4628-9857-0dd9ad4b8a7b
+      - kitchenId: b97a829e-79fd-48d6-83a7-57e0b1fd49f7
+        brandId: 263d59b9-22bb-457e-af6b-89d7079d167b
+        hubId: 942f5b1d-8f3d-46f5-a2f9-5a7091f004b4
+        aggregatorId: e8bf9a51-615e-43e8-85e7-92ac67b06648
