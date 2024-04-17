@@ -1,0 +1,58 @@
+{
+    "restaurant_name": "Tasty Bites",
+    "restaurant_address": "123 Main St, Anytown, USA",
+    "restaurant_phone": "+1 (555) 123-4567",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "id": "029e5b2b-1864-45b6-87d6-06e8f4ddba48",
+                    "name": "Mozzarella Sticks",
+                    "description": "Crispy breaded mozzarella sticks served with marinara sauce.",
+                    "price": 8.99
+                },
+                {
+                    "id": "20e15f95-4719-4d81-b6cb-fc6e947e570c",
+                    "name": "Chicken Wings",
+                    "description": "Choice of buffalo, BBQ, or garlic parmesan sauce. Served with celery sticks and ranch dressing.",
+                    "price": 10.99
+                }
+            ]
+        },
+        {
+            "category": "Entrees",
+            "items": [
+                {
+                    "id": "ca065fc7-68f3-4dc5-9bbd-67d8b48621e0",
+                    "name": "Classic Burger",
+                    "description": "Juicy beef patty topped with lettuce, tomato, onion, and pickles. Served with fries.",
+                    "price": 12.99
+                },
+                {
+                    "id": "7364db7b-fb3c-4cf7-a4de-3a3e1c3bb4c2",
+                    "name": "Grilled Salmon",
+                    "description": "Fresh salmon fillet grilled to perfection and served with seasonal vegetables and rice.",
+                    "price": 16.99
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "id": "a7ab963c-96fd-4f69-89a4-3e1d5707085a",
+                    "name": "New York Cheesecake",
+                    "description": "Creamy cheesecake on a graham cracker crust. Topped with strawberry compote.",
+                    "price": 7.99
+                },
+                {
+                    "id": "a97c3469-bf40-4375-98a2-52e671ee5d1e",
+                    "name": "Chocolate Lava Cake",
+                    "description": "Warm chocolate cake with a molten chocolate center. Served with vanilla ice cream.",
+                    "price": 8.99
+                }
+            ]
+        }
+    ]
+}
